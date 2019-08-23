@@ -1,2 +1,5 @@
 # hello-world
-first repository
+
+Hi People!
+
+Sanish here, I like to code. I am just a beginner here.
